@@ -1,0 +1,77 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #F2F2F2;
+}
+.firstBox{
+  background-color: #A1E3D8;
+  margin-bottom: 50px;
+}
+h1{
+  margin-top: 50px;
+  font-size: 90px;
+}
+hr{
+  border-top: 5px dotted #7D1E6A;
+
+  width: 30%
+}
+.y{
+  color: #11999E;
+}
+.xx{
+    color: #11999E;
+  text-align: center;
+  margin-top: 50px;
+}
+.Himanshu
+{
+    background-color: #B7E5DD;
+    font-family: 'Macondo', cursive;
+}
+.skills{
+  width: 50%;
+  margin: 40px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.cloud1
+{
+  position: relative;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.cloud2
+{
+  position: absolute;
+  margin-left: 500px;
+  margin-bottom: 100px;
+}
+.coding{
+  float: right;
+  margin-left: 30px;
+}
+.pang{
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-container{
+  background-color: #A1E3D8;
+}
+.contact{
+  background-color: #B4ECE3;
+  padding : 5px 5px 5px 5px;
+}
+.linkedin{
+  height: 30px;
+  width: 30px;
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-left: 0px;
+}
+.footer-link
+{
+  margin-right: 80px;
+}
